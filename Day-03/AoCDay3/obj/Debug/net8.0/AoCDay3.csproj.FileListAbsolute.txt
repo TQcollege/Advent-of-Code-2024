@@ -1,0 +1,14 @@
+C:\Users\trevo\Documents\GitHub\AoCDay3\AoCDay3\obj\Debug\net8.0\AoCDay3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trevo\Documents\GitHub\AoCDay3\AoCDay3\obj\Debug\net8.0\AoCDay3.AssemblyInfoInputs.cache
+C:\Users\trevo\Documents\GitHub\AoCDay3\AoCDay3\obj\Debug\net8.0\AoCDay3.AssemblyInfo.cs
+C:\Users\trevo\Documents\GitHub\AoCDay3\AoCDay3\obj\Debug\net8.0\AoCDay3.csproj.CoreCompileInputs.cache
+C:\Users\trevo\Documents\GitHub\AoCDay3\AoCDay3\bin\Debug\net8.0\AoCDay3.exe
+C:\Users\trevo\Documents\GitHub\AoCDay3\AoCDay3\bin\Debug\net8.0\AoCDay3.deps.json
+C:\Users\trevo\Documents\GitHub\AoCDay3\AoCDay3\bin\Debug\net8.0\AoCDay3.runtimeconfig.json
+C:\Users\trevo\Documents\GitHub\AoCDay3\AoCDay3\bin\Debug\net8.0\AoCDay3.dll
+C:\Users\trevo\Documents\GitHub\AoCDay3\AoCDay3\bin\Debug\net8.0\AoCDay3.pdb
+C:\Users\trevo\Documents\GitHub\AoCDay3\AoCDay3\obj\Debug\net8.0\AoCDay3.dll
+C:\Users\trevo\Documents\GitHub\AoCDay3\AoCDay3\obj\Debug\net8.0\refint\AoCDay3.dll
+C:\Users\trevo\Documents\GitHub\AoCDay3\AoCDay3\obj\Debug\net8.0\AoCDay3.pdb
+C:\Users\trevo\Documents\GitHub\AoCDay3\AoCDay3\obj\Debug\net8.0\AoCDay3.genruntimeconfig.cache
+C:\Users\trevo\Documents\GitHub\AoCDay3\AoCDay3\obj\Debug\net8.0\ref\AoCDay3.dll
